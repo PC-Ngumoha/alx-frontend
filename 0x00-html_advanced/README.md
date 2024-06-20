@@ -4,5 +4,5 @@ This is my attempt at revisiting the projects for the frontend curriculum of the
 
 ### Resources:
 - [More info on HTML \<head\> tag child tags](https://htmlhead.dev/)
-- [The \<picture\> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)`
-
+- [The \<picture\> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+- [The \<details\> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
